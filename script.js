@@ -1,4 +1,4 @@
-let btn = document.getElementsByClassName('button')[0];
+let btn = document.getElementsByClassName('btn-trigger-2')[0];
 let bulb = document.getElementsByClassName('light')[0];
 let lightImg = document.getElementsByClassName('light-img')[0];
 var c = 0;
